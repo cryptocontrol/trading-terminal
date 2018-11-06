@@ -10,7 +10,10 @@ The CryptoControl trading terminal is a trading terminal designed for the crypto
 - Built-in wallet[Coming Soon]
 - Lookup any crypto asset [Coming Soon]
 - Built-in chat system [Coming Soon]
-and more
+- Access to Crypto Research papers
+- Track ICOs, STOs and other events
+- Track all crypto-currencies, derivatives and funds
+- and more...
 
 ## Download instructions
 Current most stable release is Alpha v0.0.1; You can download the terminal by visiting the releases section [here](https://github.com/cryptocontrol/trading-terminal/releases/tag/0.0.1).
